@@ -1,8 +1,8 @@
 {
-  "name": "react-scripts-dpz",
+  "name": "@dfb1900/react-scripts",
   "version": "1.0.17",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "dfb1900/create-react-app",
+  "repository": "facebookincubator/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
