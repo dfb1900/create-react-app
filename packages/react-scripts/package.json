@@ -1,6 +1,6 @@
 {
   "name": "@dfb1900/react-scripts",
-  "version": "1.0.17",
+  "version": "0.0.3",
   "description": "Configuration and scripts for Create React App.",
   "repository": "dfb1900/create-react-app",
   "license": "MIT",
